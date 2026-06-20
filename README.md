@@ -1,30 +1,32 @@
-# Aryan 
+Aryan 
 
-Self-taught Developer | Cybersecurity Enthusiast |
-
----
-
-## About Me
-
-I am a self-taught developer who started programming during Classes 11 and 12.
-
-What makes my journey unique is that every project on this GitHub profile was developed entirely on an Android smartphone using Termux. Without access to a traditional laptop-based development setup, I independently learned Linux command-line tools, Git/GitHub workflows, Python development, backend development, deployment, debugging, and automation.
-
-Over time, I built multiple projects involving web applications, Telegram bots, automation tools, APIs, deployment workflows, and backend systems while continuously improving my programming and problem-solving skills.
-
-I am particularly interested in Cybersecurity, Linux Systems, Secure Software Development, Automation, and Backend Engineering.
+Self-Taught Developer | Cybersecurity Enthusiast | 
 
 ---
 
-## Technical Skills
+About Me
 
-### Programming Languages
+I am a self-taught developer who started programming during Classes 11 and 12 out of curiosity and a desire to solve real-world problems.
+
+Unlike a traditional learning path, most of my projects were not built by following tutorials. They originated from practical situations, questions, and challenges that I encountered in everyday life. Whenever I became curious about how a system worked or faced a problem that did not have a simple solution, I explored the underlying technology and attempted to build my own solution.
+
+All of my projects on GitHub were developed entirely on an Android smartphone using Termux. Through this process, I independently learned Linux command-line tools, Git/GitHub workflows, Python programming, backend development, deployment, debugging, automation, and web technologies without relying on a laptop-based development setup.
+
+Over time, my interests naturally expanded toward cybersecurity, privacy, Linux systems, backend engineering, and secure software development.
+
+---
+
+Technical Skills
+
+Programming Languages
+
 - Python
 - JavaScript
 - HTML
 - CSS
 
-### Technologies & Tools
+Tools & Technologies
+
 - Flask
 - Git
 - GitHub
@@ -32,91 +34,85 @@ I am particularly interested in Cybersecurity, Linux Systems, Secure Software De
 - Termux
 - REST APIs
 - Telegram Bot API
-- Web Deployment
+- Cloud Deployment
 
-### Areas of Interest
+Areas of Interest
+
 - Cybersecurity
+- Privacy & Security Research
 - Secure Coding
-- Backend Development
 - Linux Systems
+- Backend Development
 - Automation
-- Open Source
+- Open Source Software
 
 ---
 
-## Development Experience
+Development Experience
 
-Through independent learning and project-based development, I have gained experience in:
+Through independent learning and hands-on projects, I have gained experience in:
 
-- Designing and developing backend applications
-- Building Telegram bots and automation tools
+- Building backend applications using Python and Flask
+- Developing Telegram bots and automation tools
 - Working with APIs and web services
+- Hosting and deploying applications
 - Managing source code using Git and GitHub
-- Deploying applications to cloud platforms
-- Debugging production issues
 - Linux command-line operations
-- Learning development workflows under resource constraints
+- Debugging and troubleshooting software systems
+- Exploring privacy, security, and platform behavior
 
 ---
 
-## Featured Projects
+Problem-Driven Learning
 
-### Telegram Bots
-Developed automation and utility bots using Python and Telegram Bot API.
+Most of my projects started with a real problem, a question, or a curiosity-driven investigation.
 
-### Flask Web Applications
-Built backend-powered web applications using Flask and related technologies.
+Some projects were created to automate repetitive tasks, some were built to better understand online platforms and APIs, while others were developed to explore concepts related to privacy, authentication, communication systems, and web technologies.
 
-### Deployment & Hosting
-Deployed and maintained applications using cloud hosting platforms and GitHub workflows.
-
-### Automation Tools
-Created scripts and tools to automate repetitive tasks and improve productivity.
+This problem-solving approach helped me develop strong analytical skills, independent learning habits, and a practical understanding of software systems.
 
 ---
 
-## Learning Philosophy
+Featured Projects
 
-I believe the best way to learn technology is by building real projects.
+Telegram Bots
 
-Instead of focusing only on theory, I prefer creating working applications, solving practical problems, exploring new technologies, and learning from implementation challenges.
+Developed automation and utility bots using Python and the Telegram Bot API.
+
+Flask Applications
+
+Built web applications and backend systems using Flask and related technologies.
+
+Deployment Projects
+
+Hosted and maintained applications using cloud platforms and GitHub-based workflows.
+
+Automation Tools
+
+Created scripts and utilities to automate tasks and improve efficiency.
 
 ---
 
-## Current Goals
-
-- Deepen my knowledge of Cybersecurity
-- Improve secure software development practices
-- Contribute to open-source projects
-- Build more advanced backend systems
-- Explore security research and ethical hacking
-
----
-
-## Highlights
+Highlights
 
 - Self-taught programmer
 - All projects developed using Android + Termux
 - Experience with Python, Flask, APIs, Git, Linux, and deployment
-- Strong interest in Cybersecurity and Secure Systems
+- Strong interest in cybersecurity and secure systems
+- Problem-solving and project-based learning approach
 
 ---
 
-## GitHub
+Current Goals
 
-GitHub Profile: github.com/munna1127
+- Deepen my understanding of cybersecurity
+- Learn advanced secure software development practices
+- Participate in security-focused projects and hackathons
+- Contribute to open-source software
+- Build scalable and secure backend systems
 
-<!--
-**munna1127/munna1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: github.com/munna1127
