@@ -2,6 +2,8 @@ Aryan
 
 Self-Taught Developer | Cybersecurity Enthusiast | 
 
+Built and deployed all projects entirely on Android using Termux without a traditional laptop-based development environment.
+
 ---
 
 About Me
