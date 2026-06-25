@@ -10,7 +10,7 @@
 
 If you are reviewing my application profile for the **Bachelor's in Cybersecurity (B.Cyber.)** program at the Wadhwani School of AI & Intelligent Systems, please access my comprehensive, master submission materials below:
 
-* 📥 **[DOWNLOAD COMPLETE MASTER PORTFOLIO (ALL 5 FILES CONSOLIDATED)](#)** *(Paste your Google Drive link here)*
+* 📥 **[DOWNLOAD COMPLETE MASTER PORTFOLIO (ALL 5 FILES CONSOLIDATED)](#)** *(https://drive.google.com/drive/folders/1lu7yUx6rw_N-mpv9UoHZT2NDMHYMqziU)*
 * 📄 **[Core Technical Dossier & Cisco Credentials (PDF)](#)** *(Paste link to Untitled document (2).pdf)*
 * 🛠️ **[Infrastructure Addendum & Git Subsystem Verification (PDF)](#)** *(Paste link to Skill_matter5 (1).pdf)*
 
