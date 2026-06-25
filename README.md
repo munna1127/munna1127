@@ -1,120 +1,81 @@
-Aryan 
+# 📊 Aryan Kacher | Security Researcher & Systems Automation Engineer
 
-Self-Taught Developer | Cybersecurity Enthusiast | 
+### **Self-Taught Developer | Cybersecurity Enthusiast**
 
-Built and deployed all projects entirely on Android using Termux without a traditional laptop-based development environment.
-
----
-
-About Me
-
-I am a self-taught developer who started programming during Classes 11 and 12 out of curiosity and a desire to solve real-world problems.
-
-Unlike a traditional learning path, most of my projects were not built by following tutorials. They originated from practical situations, questions, and challenges that I encountered in everyday life. Whenever I became curious about how a system worked or faced a problem that did not have a simple solution, I explored the underlying technology and attempted to build my own solution.
-
-All of my projects on GitHub were developed entirely on an Android smartphone using Termux. Through this process, I independently learned Linux command-line tools, Git/GitHub workflows, Python programming, backend development, deployment, debugging, automation, and web technologies without relying on a laptop-based development setup.
-
-Over time, my interests naturally expanded toward cybersecurity, privacy, Linux systems, backend engineering, and secure software development.
+> 📱 **Operational Resourcefulness Flex:** All core frameworks, security auditing utilities, and backend systems in my portfolio were built and deployed entirely on an Android smartphone using the Termux POSIX subsystem without relying on a traditional laptop-based development environment.
 
 ---
 
-Technical Skills
+## 🚨 ATTENTION: IIT KANPUR B.CYBER ADMISSION REVIEW PANEL
 
-Programming Languages
+If you are reviewing my application profile for the **Bachelor's in Cybersecurity (B.Cyber.)** program at the Wadhwani School of AI & Intelligent Systems, please access my comprehensive, master submission materials below:
 
-- Python
-- JavaScript
-- HTML
-- CSS
-
-Tools & Technologies
-
-- Flask
-- Git
-- GitHub
-- Linux
-- Termux
-- REST APIs
-- Telegram Bot API
-- Cloud Deployment
-
-Areas of Interest
-
-- Cybersecurity
-- Privacy & Security Research
-- Secure Coding
-- Linux Systems
-- Backend Development
-- Automation
-- Open Source Software
+* 📥 **[DOWNLOAD COMPLETE MASTER PORTFOLIO (ALL 5 FILES CONSOLIDATED)](#)** *(Paste your Google Drive link here)*
+* 📄 **[Core Technical Dossier & Cisco Credentials (PDF)](#)** *(Paste link to Untitled document (2).pdf)*
+* 🛠️ **[Infrastructure Addendum & Git Subsystem Verification (PDF)](#)** *(Paste link to Skill_matter5 (1).pdf)*
 
 ---
 
-Development Experience
+## 👤 About Me
 
-Through independent learning and hands-on projects, I have gained experience in:
+I am a self-taught systems programmer who started engineering application logic during high school out of sheer curiosity and a drive to break down complex computing barriers.
 
-- Building backend applications using Python and Flask
-- Developing Telegram bots and automation tools
-- Working with APIs and web services
-- Hosting and deploying applications
-- Managing source code using Git and GitHub
-- Linux command-line operations
-- Debugging and troubleshooting software systems
-- Exploring privacy, security, and platform behavior
+Unlike traditional structured academic paths, my development workflow is entirely **problem-driven**. My software structures do not originate from passive tutorials; they are built as custom internal utilities designed to dissect everyday edge cases, map public API behavior, and explore localized transport vulnerabilities.
 
----
+Operating strictly within an isolated mobile environment, I independently mastered:
+* Advanced Linux command-line architecture & user-space filesystems.
+* Decentralized Git/GitHub version control tree operations.
+* Asynchronous data parsing, state-machines, and backend service persistence.
 
-Problem-Driven Learning
-
-Most of my projects started with a real problem, a question, or a curiosity-driven investigation.
-
-Some projects were created to automate repetitive tasks, some were built to better understand online platforms and APIs, while others were developed to explore concepts related to privacy, authentication, communication systems, and web technologies.
-
-This problem-solving approach helped me develop strong analytical skills, independent learning habits, and a practical understanding of software systems.
+Over time, my engineering scope has naturally pivoted towards core network threat intelligence, system memory forensics, protocol abuse vulnerabilities, and secure software development.
 
 ---
 
-Featured Projects
+## 🛠️ Deep Technical Skill Matrix
 
-Telegram Bots
-
-Developed automation and utility bots using Python and the Telegram Bot API.
-
-Flask Applications
-
-Built web applications and backend systems using Flask and related technologies.
-
-Deployment Projects
-
-Hosted and maintained applications using cloud platforms and GitHub-based workflows.
-
-Automation Tools
-
-Created scripts and utilities to automate tasks and improve efficiency.
+| Capability Domain | Technologies & Operational Frameworks |
+| :--- | :--- |
+| **Languages & Scripting** | Python 3.x, JavaScript (Node.js runtime), HTML5, CSS3 |
+| **Backend & Architecture** | Flask Web Framework, RESTful APIs, Session Cookie Routing |
+| **Subsystems & Environments** | Termux Native POSIX Sandbox, Linux Command-Line (CLI), Android System Internals |
+| **Version Control & CI/CD** | Git Directed Acyclic Graph (DAG) Trees, GitHub Automation Systems |
+| **Persistence & Telemetry** | Telegram Bot API Webhooks, Cloud PaaS Automation (Render, Netlify) |
+| **Security & Threat Focus** | Protocol Inversion Research, Information Theory (High-Entropy Storage Defense) |
 
 ---
 
-Highlights
+## 🚀 Key Practical Engineering Highlights
 
-- Self-taught programmer
-- All projects developed using Android + Termux
-- Experience with Python, Flask, APIs, Git, Linux, and deployment
-- Strong interest in cybersecurity and secure systems
-- Problem-solving and project-based learning approach
+* **Local-First Version Control Execution:** Complete backend version control tracking managed locally inside native terminal sandboxes (`/data/data/com.termux/`) before remote public distribution.
+* **Cloud Instance Persistence Optimization:** Engineered custom low-overhead heartbeat daemons executing synthetic HTTP request loops to legally bypass the 15-minute idle spin-down constraints of free-tier cloud environments, ensuring stable 24/7 endpoint availability.
+* **Signature-less Storage Anomaly Detection:** Implemented mathematical information-theory algorithms (Shannon Entropy calculations) to monitor real-time file mutation velocities and track high-entropy indicators of malicious ransomware arrays.
 
 ---
 
-Current Goals
+## 📂 Production Case Studies & Repositories
 
-- Deepen my understanding of cybersecurity
-- Learn advanced secure software development practices
-- Participate in security-focused projects and hackathons
-- Contribute to open-source software
-- Build scalable and secure backend systems
+### 🛡️ Core Infrastructure & Access Control
+* **[Secure-AuthSim Core](https://github.com/munna1127/secure-authsim-core):** Multi-factor identity validation framework simulating out-of-band token structures, volatile session cleanups, and automated rate-throttling exhaustion triggers.
+* **[GeoAudit Telemetry Sim](https://github.com/munna1127/geoaudit-telemetry-sim):** Compliance audit architecture evaluating browser-level access controls and asynchronous Layer-3 infrastructure validation logs.
+
+### 📡 Threat Intelligence & Passive Analytics
+* **[OSINT-Nexus Core](https://github.com/munna1127/osint-nexus-core):** Non-blocking multi-threaded asynchronous framework consolidating BGP carrier routes and carrier registries into standardized data profiles.
+* **[InstaLens OSINT Harvester](https://github.com/munna1127/instalens-osint-harvester):** Automated schema extraction utility auditing endpoint data disclosure boundaries and platform state mutations.
+
+### 🖼️ Cloud APIs & Media Forensics
+* **[AI Media Synthesis Core](https://github.com/munna1127/ai-media-synthesis-core):** Serverless endpoint transaction testing utility utilizing dynamic payload truncation to process live object dumps securely.
+* **[Ephemeral Media Forensics](https://github.com/munna1127/ephemeral-media-forensics):** Prototype digital forensics wrapper monitoring asynchronous streaming connections to archive volatile digital buffers.
 
 ---
 
-GitHub
+## 🎯 Active Strategic Milestones
 
-GitHub: github.com/munna1127
+* **Advanced Cyber Defense:** Deepening structural research into defensive network layer security, automated vulnerability remediation, and application-layer cryptographic models.
+* **Open Source Contribution:** Designing highly resilient, low-resource processing frameworks optimization for constraint-heavy operating environments.
+* **Academic Research:** Preparing to scale localized security prototypes into robust enterprise-grade network protection frameworks at **IIT Kanpur**.
+
+---
+
+### 🌐 Digital Validation Interface
+* **Verified Cybersecurity Analyst Credentials (Credly):** [credly.com/users/aryan-kacher](https://www.credly.com/users/aryan-kacher/badges/credly)
+* **Central Terminal Environment:** Registered Hub Node — `github.com/munna1127`
