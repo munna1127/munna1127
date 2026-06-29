@@ -1,28 +1,4 @@
-## 🚨 ATTENTION: IIT KANPUR B.CYBER ADMISSION REVIEW PANEL
-
-**Respected Members of the Selection Panel,**
-
-First of all, thank you for evaluating my application profile for the **Bachelor's in Cybersecurity (B.Cyber.)** program at the Wadhwani School of AI & Intelligent Systems. 
-
-I would like to humbly bring to your notice a minor clerical oversight made during my final document submission process on the portal. Instead of my main comprehensive file, only my supplementary document titled **"Infrastructure Addendum" (Skill_matter5 (1).pdf)** was successfully uploaded to the system[span_2](start_span)[span_2](end_span). While that file accurately verifies my local Termux environment and Git version control workflows, it unfortunately lacks the complete core security audits and certification credentials meant for your evaluation[span_3](start_span)[span_3](end_span).
-
-To ensure the review panel has access to the full scope of my research, I have securely hosted all my primary application files right here within this verified repository directory[span_4](start_span)[span_4](end_span). I respectfully request you to consider the **6 distinct portfolio components** linked below for my evaluation:
-
-### 📁 Consolidated Application Portfolio Documents:
-* 📥 **[Cloud Mirror: Complete Application Folder (Google Drive)](https://drive.google.com/drive/folders/1lu7yUx6rw_N-mpv9UoHZT2NDMHYMqziU)**
-* 📄 **[Document 01: Core Technical Dossier & Verification Artifact](./Skillsmatter.pdf)**[span_5](start_span)[span_5](end_span)
-* 🛠️ **[Document 02: Infrastructure Addendum & Environment Verification](./Skill_matter5.pdf)**[span_6](start_span)[span_6](end_span)
-* 📊 **[Document 03: Automated OSINT & Public CDN Cache Review](./Skills_matter1.pdf)**[span_7](start_span)[span_7](end_span)
-* 📡 **[Document 04: Volatile Data Interception Framework Analytics](./Skills_matter2%20.pdf)**[span_8](start_span)[span_8](end_span)
-* 🛡️ **[Document 05: Network Threat Detection & Code Architecture Audit](./Skills_matter3%20.pdf)**[span_9](start_span)[span_9](end_span)
-* ⚙️ **[Document 06: Serverless API Ingestion & Gateway Telemetry](./Skills_matter4%20.pdf)**[span_10](start_span)[span_10](end_span)
-* 🏅 **[Verified Cisco Academy Professional Credentials (Credly Digital Badge)](https://www.credly.com/users/aryan-kacher/badges/credly)**
-
-Thank you sincerely for your valuable time, understanding, and consideration.
-
----
-
-# 📊 Aryan Kacher | Security Researcher & Systems Automation Engineer
+# 📊 Aryan Tomar  | Security Researcher & Systems Automation Engineer
 
 ### **Self-Taught Developer | Cybersecurity Enthusiast**
 
@@ -88,8 +64,3 @@ Over time, my engineering scope has naturally pivoted towards core network threa
 * **Open Source Contribution:** Designing highly resilient, low-resource processing frameworks optimization for constraint-heavy operating environments.
 * **Academic Research:** Preparing to scale localized security prototypes into robust enterprise-grade network protection frameworks at **IIT Kanpur**.
 
----
-
-### 🌐 Digital Validation Interface
-* **Verified Cybersecurity Analyst Credentials (Credly):** [credly.com/users/aryan-kacher](https://www.credly.com/users/aryan-kacher/badges/credly)
-* **Central Terminal Environment:** Registered Hub Node — `github.com/munna1127`[span_14](start_span)[span_14](end_span)
